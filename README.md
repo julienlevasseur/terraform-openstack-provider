@@ -29,3 +29,7 @@ module "openstack_provider" {
 }
 
 ```
+
+# Authors
+
+Julien Levasseur (https://github.com/julienlevasseur)
